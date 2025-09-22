@@ -540,17 +540,10 @@ body {
     }
     
     .home-sci {
-        display: flex;
-        width: 200px;
-        margin: 100px auto;
-        justify-content: space-between;
+        display: none;
     }
     
-    .home-sci a {
-        width: 30px;
-        height: 30px;
-        font-size: 18px;
-    }
+    
 }
 
 }
