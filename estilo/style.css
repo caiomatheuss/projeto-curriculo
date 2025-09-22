@@ -429,7 +429,8 @@ body {
     .home-sci2 {
         display: flex;
         width: 200px;
-        margin: 100px auto;
+        margin: 0px auto;
+        padding-top: 100px;
         justify-content: space-between;
     }
 
@@ -539,10 +540,10 @@ body {
     }
     
     .home-sci {
-        width: 100px;
-        margin: 30px auto 0;
-        position: relative;
-        bottom: auto;
+        display: flex;
+        width: 200px;
+        margin: 100px auto;
+        justify-content: space-between;
     }
     
     .home-sci a {
