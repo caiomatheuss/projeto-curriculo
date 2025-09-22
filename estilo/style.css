@@ -428,12 +428,8 @@ body {
 
     .home-sci2 {
         display: flex;
-        position: absolute;
-        top: 78%;
-        left: 35%;
         width: 200px;
-        margin: 30px auto 0;
-        bottom: auto;
+        margin: 100px auto;
         justify-content: space-between;
     }
 
@@ -513,7 +509,7 @@ body {
     
     .home {
         padding: 0px 3%;
-        background: #081b29;
+        background: green;
     }
     
     .home-content h1 {
@@ -554,4 +550,6 @@ body {
         height: 30px;
         font-size: 18px;
     }
+}
+
 }
